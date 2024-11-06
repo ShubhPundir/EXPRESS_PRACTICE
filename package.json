@@ -1,0 +1,19 @@
+{
+  "name": "express-practice",
+  "version": "1.0.0",
+  "description": "Express Practice ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShubhPundir/EXPRESS_PRACTICE.git"
+  },
+  "author": "Shubh Pundir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShubhPundir/EXPRESS_PRACTICE/issues"
+  },
+  "homepage": "https://github.com/ShubhPundir/EXPRESS_PRACTICE#readme"
+}
