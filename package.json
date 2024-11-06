@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/ShubhPundir/EXPRESS_PRACTICE/issues"
   },
-  "homepage": "https://github.com/ShubhPundir/EXPRESS_PRACTICE#readme"
+  "homepage": "https://github.com/ShubhPundir/EXPRESS_PRACTICE#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
 }
